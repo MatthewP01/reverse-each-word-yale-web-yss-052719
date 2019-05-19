@@ -3,5 +3,5 @@ reveresed_string = []
   strings.each do |rev|
     reversed = rev.reverse!
     reveresed_string << reversed
-
+  end
 end
