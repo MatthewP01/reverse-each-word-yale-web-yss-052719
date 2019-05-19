@@ -1,4 +1,4 @@
-def reverse_each_word(string)
+def each(string)
 reveresed_string = []
   string.each do |rev|
     reversed = rev.reverse!
